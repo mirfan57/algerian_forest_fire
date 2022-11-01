@@ -110,7 +110,7 @@ I used a UCI dataset on forest fires in Algeria. The **Bejaia and Sidi Bel-abbes
 
 ## Model Building
 
-###Regression 
+### Regression 
 
 - For regression analysis **Temperature** is considered as dependent feature.
 
@@ -126,7 +126,7 @@ I used a UCI dataset on forest fires in Algeria. The **Bejaia and Sidi Bel-abbes
 8. Random Forest Regressor
 
 
-###Classification
+### Classification
 
 - For Classification purpose, **Classes** which is a binary **(fire, not fire)** categorical column is considered as the target column.
 
