@@ -5,28 +5,19 @@
 https://user-images.githubusercontent.com/86904142/185993973-57c8f915-c1a6-4251-bd4c-9275dee94235.png-->
 **User Interface**
 
-![frontend](./static/images/front_ui.jpg)
+![front_ui](https://user-images.githubusercontent.com/103884216/199303258-77206bdd-6c3f-4861-98bb-c9decc93da99.jpg)
+
+# Demo
+
+https://user-images.githubusercontent.com/103884216/199303070-307774c9-bdfe-446f-823f-4fc2f147daf1.mp4
 
 
-<!--# Demonstration
-
-**Classification**
-
-https://user-images.githubusercontent.com/86904142/193569912-92561cac-abbf-4094-914b-0354e213e7d3.mp4
-
-
-**Regression**
-
-https://user-images.githubusercontent.com/86904142/193580650-1856facc-0cc6-4822-afec-421fa2ffc3fe.mp4
--->
-## A brief description of what this project is all about.
-
-
+## A brief explanation of the project's objectives.
 
 Forest Fire Prediction is a Supervised Machine learning problem statements.
 Using Regression and Classification Algorithm, Regression and Classification Model is build that detected future fires based on certain Weather report.
 
-## Library Used in this Project 
+## Libraries Implemented 
 
 **Data Pre-Processing**
 
@@ -48,7 +39,7 @@ Using Regression and Classification Algorithm, Regression and Classification Mod
 
 - Repeated Stratified KFold
 
-## Introduction
+## About the Dataset
 
 **Algerian Forest Fires Dataset**
 
@@ -95,7 +86,7 @@ I used a UCI dataset on forest fires in Algeria. The **Bejaia and Sidi Bel-abbes
 
 **12. Classes:** two classes, namely **Fire** and **not Fire**
 
-# Steps 
+# Quick Walkthrough
 
 1. Loading Data
 2. Data Pre-Processing
