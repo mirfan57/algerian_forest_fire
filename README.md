@@ -7,6 +7,8 @@ https://user-images.githubusercontent.com/86904142/185993973-57c8f915-c1a6-4251-
 
 ![front_ui](https://user-images.githubusercontent.com/103884216/199303258-77206bdd-6c3f-4861-98bb-c9decc93da99.jpg)
 
+## [Heroku App Link](https://algerian-forest-fire-app.herokuapp.com/)
+
 # Demo
 
 https://user-images.githubusercontent.com/103884216/199303070-307774c9-bdfe-446f-823f-4fc2f147daf1.mp4
@@ -147,7 +149,19 @@ Hyper-parameter tuning performed using **RandomizedsearchCV** and **GridSearchCV
 ### WebApp
 * The web framework employed for this model deployment is Flask.
 
-* For codes concerning EDA, please look for **"Algerian Forest Fire EDA.ipynb"** file. Whereas ML Algorithms can be found in **Algerian forest fire regression.ipynb** and **Algerian forest fire classification.ipynb** files.
+### Deployment steps in Heroku 
+
+* Create new repo in Github and push all the data using `Git`.
+
+* Install Heroku CLI and then login using `heroku login`. 
+* Create an app on Heroku.
+* Move to the project folder and connect with your app using `heroku git:remote -a <your_app_name>`
+* Push your code with `git push heroku master`
+* You have successfully deployed in Heroku. 
+
+### Code
+* **Algerian forest fire_cleaned.csv** contains the dataset after inital data pre-processing and cleaning step.
+* For codes concerning EDA, please look for **Algerian Forest Fire EDA.ipynb** file. Whereas ML Algorithms can be found in **Algerian forest fire regression.ipynb** and **Algerian Forest fire classification.ipynb** files.
 
 ### **Technologies used**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
