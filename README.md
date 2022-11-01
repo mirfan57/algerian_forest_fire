@@ -1,8 +1,11 @@
 
 # Algerian Forest Fire Prediction
-<!--**Heroku App** 
-(https://forestfire-predictions.herokuapp.com) 
-https://user-images.githubusercontent.com/86904142/185993973-57c8f915-c1a6-4251-bd4c-9275dee94235.png-->
+
+![Python](https://img.shields.io/badge/Python-3.7-yellow)
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![Framework](https://img.shields.io/badge/Framework-Flask-black)
+![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-blue)
+
 **User Interface**
 
 ![front_ui](https://user-images.githubusercontent.com/103884216/199303258-77206bdd-6c3f-4861-98bb-c9decc93da99.jpg)
