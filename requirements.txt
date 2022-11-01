@@ -15,6 +15,7 @@ python-dateutil==2.8.2
 pytz==2022.2.1
 scikit-learn==1.0
 scipy
+xgboost
 six==1.16.0
 sklearn==0.0
 threadpoolctl==3.1.0
